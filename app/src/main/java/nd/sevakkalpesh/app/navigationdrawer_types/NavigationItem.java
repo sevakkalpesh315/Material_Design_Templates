@@ -3,7 +3,7 @@ package nd.sevakkalpesh.app.navigationdrawer_types;
 import android.graphics.drawable.Drawable;
 
 /**
- * Created by Kalpesh on 15/2/2015.
+ * Created by Kalpesh on 18/2/2015.
  */
 public class NavigationItem {
     private String mText;
