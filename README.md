@@ -14,3 +14,4 @@ Features:
 3. Change your drawer: refer to onBindViewHolder method on the NavigationDrawerAdapter.
 4. Complete customisation can be enabled 
 
+https://cloud.githubusercontent.com/assets/7528961/6251259/d42bb8d8-b78a-11e4-848f-a44fcd785077.png
