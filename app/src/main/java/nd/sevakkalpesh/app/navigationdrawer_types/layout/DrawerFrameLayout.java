@@ -1,4 +1,4 @@
-package nd.sevakkalpesh.app.navigationdrawer_types;
+package nd.sevakkalpesh.app.navigationdrawer_types.layout;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -8,6 +8,8 @@ import android.graphics.drawable.Drawable;
 import android.support.v4.view.ViewCompat;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
+
+import nd.sevakkalpesh.app.navigationdrawer_types.R;
 
 /**
  * Created by Kalpesh on 18/2/2015.

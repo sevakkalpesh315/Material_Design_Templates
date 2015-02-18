@@ -1,4 +1,4 @@
-package nd.sevakkalpesh.app.navigationdrawer_types;
+package nd.sevakkalpesh.app.navigationdrawer_types.fragment;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -18,6 +18,11 @@ import android.view.ViewGroup;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import nd.sevakkalpesh.app.navigationdrawer_types.R;
+import nd.sevakkalpesh.app.navigationdrawer_types.adapter.NavigationDrawerAdapter;
+import nd.sevakkalpesh.app.navigationdrawer_types.callbacks.NavigationDrawerCallbacks;
+import nd.sevakkalpesh.app.navigationdrawer_types.model.NavigationItem;
 
 /**
  * Created by Kalpesh on 18/2/2015.

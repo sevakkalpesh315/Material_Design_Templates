@@ -1,4 +1,4 @@
-package nd.sevakkalpesh.app.navigationdrawer_types;
+package nd.sevakkalpesh.app.navigationdrawer_types.adapter;
 
 import android.graphics.Color;
 import android.support.v7.widget.RecyclerView;
@@ -9,6 +9,10 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import java.util.List;
+
+import nd.sevakkalpesh.app.navigationdrawer_types.callbacks.NavigationDrawerCallbacks;
+import nd.sevakkalpesh.app.navigationdrawer_types.model.NavigationItem;
+import nd.sevakkalpesh.app.navigationdrawer_types.R;
 
 /**
  * Created by Kalpesh on 18/2/2015.

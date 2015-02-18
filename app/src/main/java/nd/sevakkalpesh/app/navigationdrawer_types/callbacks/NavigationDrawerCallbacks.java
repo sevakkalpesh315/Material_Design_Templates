@@ -1,4 +1,4 @@
-package nd.sevakkalpesh.app.navigationdrawer_types;
+package nd.sevakkalpesh.app.navigationdrawer_types.callbacks;
 
 /**
  * Created by Kalpesh on 18/2/2015.

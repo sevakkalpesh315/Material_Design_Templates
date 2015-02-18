@@ -1,4 +1,4 @@
-package nd.sevakkalpesh.app.navigationdrawer_types;
+package nd.sevakkalpesh.app.navigationdrawer_types.model;
 
 import android.graphics.drawable.Drawable;
 

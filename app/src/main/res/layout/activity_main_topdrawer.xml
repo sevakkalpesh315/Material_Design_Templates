@@ -6,7 +6,7 @@
                                         android:fitsSystemWindows="true"
                                         android:layout_height="match_parent">
 
-    <nd.sevakkalpesh.app.navigationdrawer_types.DrawerFrameLayout
+    <nd.sevakkalpesh.app.navigationdrawer_types.layout.DrawerFrameLayout
         android:id="@+id/scrimInsetsFrameLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -15,7 +15,7 @@
         android:elevation="10dp"
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto">
-    </nd.sevakkalpesh.app.navigationdrawer_types.DrawerFrameLayout>
+    </nd.sevakkalpesh.app.navigationdrawer_types.layout.DrawerFrameLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -38,7 +38,7 @@
 
     <fragment
         android:id="@+id/fragment_drawer"
-        android:name="nd.sevakkalpesh.app.navigationdrawer_types.NavigationDrawerFragment"
+        android:name="nd.sevakkalpesh.app.navigationdrawer_types.fragment.NavigationDrawerFragment"
         android:layout_width="@dimen/navigation_drawer_width"
         android:layout_height="match_parent"
         android:layout_gravity="start"
