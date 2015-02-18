@@ -7,7 +7,10 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.widget.Toast;
 
+/*
+    ** @author Kalpesh Sevak
 
+*/
 public class MainActivity extends ActionBarActivity implements NavigationDrawerCallbacks {
 
     private Toolbar mToolbar;
