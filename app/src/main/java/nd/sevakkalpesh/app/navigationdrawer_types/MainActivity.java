@@ -8,8 +8,7 @@ import android.view.Menu;
 import android.widget.Toast;
 
 /*
-    ** @author Kalpesh Sevak
-
+** @author Kalpesh Sevak
 */
 public class MainActivity extends ActionBarActivity implements NavigationDrawerCallbacks {
 
